@@ -28,17 +28,16 @@ public class PlayerController : MonoBehaviour
 
     Animator anim;
 
-    private Vector2 anim
+    private Vector2 animSpeed;
     
 
     // Start is called before the first frame update
     void Start()
     {
         tr = this.transform;
-
         rb = GetComponent<Rigidbody>();
-
         cam = Camera.main.transform;
+        anim
         
     }
 
