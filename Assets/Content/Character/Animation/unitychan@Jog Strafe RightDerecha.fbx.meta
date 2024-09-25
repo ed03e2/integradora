@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6a3befcfcd9c9924bbda6bc281dc44d7
+guid: b830d06d162726e448d75e874c63e1cd
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -57,7 +57,7 @@ ModelImporter:
       : position error = 175.765259 mm\n\t'Character1_Head' : position error = 87.595757
       mm\nCopied Avatar Rig Configuration mis-match. Inbetween bone rotation in copied
       configuration does not match rotation in animation file:\n\t'Character1_Spine'
-      : rotation error = 6.952752 deg\n"
+      : rotation error = 8.578294 deg\n"
     animationImportErrors: 
     animationImportWarnings: "\nClip 'mixamo.com' has import animation warnings that
       might lower retargeting quality:\nNote: Activate translation DOF on avatar
@@ -76,11 +76,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Run Forward
+      name: Jog Strafe RightDerecha
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 35
+      lastFrame: 43
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

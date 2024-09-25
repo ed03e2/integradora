@@ -23,6 +23,12 @@ public class PlayerController : MonoBehaviour
     public float maxAngle = 45;
 
     public float cameraSpeed = 200; 
+
+    //Animaciones 
+
+    Animator anim;
+
+    private Vector2 anim
     
 
     // Start is called before the first frame update
