@@ -1,4 +1,5 @@
 //CASTAÑEDA RIOS BERNARDO
+//VALLEJO CORRAL EDGAR ARTURO
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
